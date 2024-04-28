@@ -5,12 +5,12 @@ Predicting the age of abalone from physical measurements.  The age of abalone is
 From the original data examples with missing values were removed (the majority having the predicted value missing), and the ranges of the continuous values have been scaled for use with an ANN (by dividing by 200).
 
 
-Sex :	M, F, and I (infant)
-Length :	Longest shell measurement	mm
-Diameter :	perpendicular to length	mm
-Height :	with meat in shell	mm
-Whole_weight :	whole abalone	grams
-Shucked_weight :	weight of meat	grams
-Viscera_weight :	gut weight (after bleeding)	grams
-Shell_weight :	after being dried	grams
-Rings	Target :	+1.5 gives the age in years
+- Sex :	M, F, and I (infant)
+- Length :	Longest shell measurement	mm
+- Diameter :	perpendicular to length	mm
+- Height :	with meat in shell	mm
+- Whole_weight :	whole abalone	grams
+- Shucked_weight :	weight of meat	grams
+- Viscera_weight :	gut weight (after bleeding)	grams
+- Shell_weight :	after being dried	grams
+- Rings	Target :	+1.5 gives the age in years
